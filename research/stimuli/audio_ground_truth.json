@@ -1,0 +1,276 @@
+{
+ "A_drop8": {
+  "bpm": 120,
+  "beat_period": 0.5,
+  "duration": 12.0,
+  "t_drop": 8.0,
+  "t_build": 6.0,
+  "events": [
+   {
+    "t": 0.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 0.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 1.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 1.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 2.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 2.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 3.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 3.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 4.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 4.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 5.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 5.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 6.0,
+    "type": "beat",
+    "section": "build"
+   },
+   {
+    "t": 6.0,
+    "type": "build_start"
+   },
+   {
+    "t": 6.5,
+    "type": "beat",
+    "section": "build"
+   },
+   {
+    "t": 7.0,
+    "type": "beat",
+    "section": "build"
+   },
+   {
+    "t": 7.5,
+    "type": "beat",
+    "section": "build_gap"
+   },
+   {
+    "t": 8.0,
+    "type": "drop"
+   },
+   {
+    "t": 8.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 8.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 9.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 9.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 10.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 10.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 11.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 11.5,
+    "type": "beat",
+    "section": "peak"
+   }
+  ]
+ },
+ "A_drop4": {
+  "bpm": 120,
+  "beat_period": 0.5,
+  "duration": 12.0,
+  "t_drop": 4.0,
+  "t_build": 2.0,
+  "events": [
+   {
+    "t": 0.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 0.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 1.0,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 1.5,
+    "type": "beat",
+    "section": "intro"
+   },
+   {
+    "t": 2.0,
+    "type": "beat",
+    "section": "build"
+   },
+   {
+    "t": 2.0,
+    "type": "build_start"
+   },
+   {
+    "t": 2.5,
+    "type": "beat",
+    "section": "build"
+   },
+   {
+    "t": 3.0,
+    "type": "beat",
+    "section": "build"
+   },
+   {
+    "t": 3.5,
+    "type": "beat",
+    "section": "build_gap"
+   },
+   {
+    "t": 4.0,
+    "type": "drop"
+   },
+   {
+    "t": 4.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 4.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 5.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 5.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 6.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 6.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 7.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 7.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 8.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 8.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 9.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 9.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 10.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 10.5,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 11.0,
+    "type": "beat",
+    "section": "peak"
+   },
+   {
+    "t": 11.5,
+    "type": "beat",
+    "section": "peak"
+   }
+  ]
+ }
+}
